@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "GBU Portugal"
-  role = "Professor of Artificial Intelligence"
+  role = "Grupo Bíblico Universitário"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -98,8 +98,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = ""
+  longitude = ""
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -226,22 +226,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:gbu@gbu.pt"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/gbuportugal"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = ""
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = ""
 
 
 # Navigation Links
@@ -296,6 +296,11 @@ enableGitInfo = false
   name = "Próximos Eventos"
   url = "#events"
   weight = 2
+
+[[Languages.pt.menu.main]]
+  name = "Artigos"
+  url = "#posts"
+  weight = 3
 
 [[Languages.pt.menu.main]]
   name = "Contacto"
