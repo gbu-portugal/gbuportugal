@@ -1,9 +1,9 @@
----
-title: "Política de Privacidade"
-date: 2018-05-24T14:09:36+01:00
-draft: false
-slug: "politica-privacidade"
----
++++
+title = "Política de Privacidade"
+date = 2018-05-24T14:09:36+01:00
+draft = false
+slug = "politica-privacidade"
++++
 
 __Geral__
 
