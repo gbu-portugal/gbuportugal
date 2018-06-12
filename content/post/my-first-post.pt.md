@@ -10,4 +10,4 @@ summary = "Hello!"
 
 +++
 
-Hello! {{< hl >}} What up? {{< /hl >}}
+Hello! {{< hl >}} What up? {{< /hl >}} : smile :
