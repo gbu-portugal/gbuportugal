@@ -4,27 +4,27 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Temos uma nova política de privacidade"
+title = "Vem ao EBU!"
 
 # Order that this section will appear in.
-weight = 70
+weight = 1
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#fffff"  # An HTML color value.
-  overlay_img = "ifes-politica.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_color = "#ffffff"  # An HTML color value.
+  overlay_img = "ebu-2017-solo.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./page/politica-privacidade/"
-  label = '<i class="fa "></i>Política de Privacidade do GBU'
+  url = "project/ebu-2018/"
+  label = '<i class="fa "></i>Early bird até 31 de julho'
 +++
 
-Conhece as alterações:
+13 — 16 de setembro de 2018
 
 <script type="text/javascript">
   (function defer() {
