@@ -293,13 +293,13 @@ enableGitInfo = false
   weight = 1
 
 [[Languages.pt.menu.main]]
-  name = "Artigos"
-  url = "#posts"
+  name = "Eventos"
+  url = "#projects"
   weight = 2
 
 [[Languages.pt.menu.main]]
-  name = "Contacto"
-  url = "#contact"
+  name = "Artigos"
+  url = "#posts"
   weight = 3
 
 [[Languages.pt.menu.main]]
@@ -308,25 +308,36 @@ enableGitInfo = false
   weight = 4
   identifier = "sobre"
 
-[[Languages.pt.menu.main]]
-  name = "Sobre o GBU"
-  url = "page/sobre-o-gbu/"
-  weight = 1
-  parent = "sobre"
+        [[Languages.pt.menu.main]]
+          name = "Sobre o GBU"
+          url = "page/sobre-o-gbu/"
+          weight = 1
+          parent = "sobre"
+
+        [[Languages.pt.menu.main]]
+          name = "Missão e Visão"
+          url = "page/missao-e-visao/"
+          weight = 2
+          parent = "sobre"
+
+        [[Languages.pt.menu.main]]
+          name = "Política de Privacidade"
+          url = "page/politica-privacidade/"
+          weight = 3
+          parent = "sobre"
 
 [[Languages.pt.menu.main]]
-  name = "Missão e Visão"
-  url = "page/missao-e-visao/"
-  weight = 2
-  parent = "sobre"
+  name = "Grupos locais"
+  url = "page/grupos-locais/"
+  weight = 5
 
 [[Languages.pt.menu.main]]
-  name = "Política de Privacidade"
-  url = "page/politica-privacidade/"
-  weight = 3
-  parent = "sobre"
+  name = "Contacto"
+  url = "#contact"
+  weight = 6
 
 [[Languages.pt.menu.main]]
   name = "DOAR"
   url = "http://gbu.force.com/PaginaInicial"
-  weight = 6
+  weight = 7
+  hrefTargetBlank = true

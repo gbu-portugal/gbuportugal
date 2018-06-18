@@ -7,17 +7,19 @@ draft = false
 
 tags = []
 summary = "Sim e não. Chamemos-lhe um cantinho provisório."
-slug = "o-gbu-tem-um-site-provisorio"
+slug = "site-provisorio-gbu"
 
 +++
 
-Há algum tempo que sabíamos que o GBU precisava de um _website_ novo. (Um que desse para ver em telemóveis, por exemplo...)
+Até aqui, quando queríamos dirigir as pessoas para um evento do GBU, apoiávamo-nos sobretudo nas redes sociais. Quando não o fazíamos (por exemplo, para dar informação sobre grupos locais), recorríamos ao website antigo do GBU:
 
-Também sabíamos que queríamos atualizar a imagem e identidade do GBU... Por isso, em 2017, reunimos um grupo de estudantes e graduados de comunicações e design, e eles lançaram-nos à aventura.
+![Website do GBU de 1999 a 2018](/img/blog/201806-sitio-antigo.png "Website do GBU de 1999 a 2018")
 
-Embora esse processo ainda não esteja concluido, vimos oportunidade de criar um site novo, mesmo que provisório e sem essa nova identidade, para podermos dirigir as pessoas para mais sítios além do Facebook. Para já, este é o cantinho do GBU na Internet.
+Há algum tempo que sabíamos que este website precisava de renovação. Recentemente, com a preparação necessária para nos adaptarmos ao RGPD (também temos uma [política de privacidade][policy]!), decidimos atualizá-lo.
 
-O que podes fazer já que aqui estás? Podes inscrever-te [no EBU][ebu], ler a nova [política de privacidade][policy], ou passear até à [missão e visão][missao] do GBU.
+O que podes esperar encontrar aqui? Para já, informação sobre os eventos, como o __[EBU][ebu]__ e grupos locais; no futuro, recursos do GBU organizados, artigos, atividades para estudantes e para graduados.
+
+A par disso, estamos a atualizar a imagem e identidade do GBU com um grupo de estudantes e graduados de comunicação e _design_, com quem estamos a trabalhar mais de perto desde o início do ano. A identidade proposta já foi aprovada e será implementada ao longo do próximo ano. Entretanto, este é o novo cantinho do GBU na Internet.
 
 [ebu]:/project/ebu-2018/
 [policy]:/page/politica-privacidade/
