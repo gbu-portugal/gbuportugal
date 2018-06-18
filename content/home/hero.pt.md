@@ -13,7 +13,7 @@ weight = 70
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#fffff"  # An HTML color value.
-  overlay_img = "heroes/jessica-ruscello-196422-unsplash.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ifes-politica.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
