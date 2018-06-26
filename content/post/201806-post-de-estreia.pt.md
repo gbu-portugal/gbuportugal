@@ -6,7 +6,7 @@ lastmod = 2018-01-13T00:00:00
 draft = false
 
 tags = []
-summary = "Sim e não. Chamemos-lhe um cantinho provisório."
+summary = "Até aqui, quando queríamos dirigir as pessoas para um evento do GBU, apoiávamo-nos sobretudo nas redes sociais. Quando não o fazíamos..."
 slug = "site-provisorio-gbu"
 
 +++
@@ -19,7 +19,7 @@ Há algum tempo que sabíamos que este website precisava de renovação. Recente
 
 O que podes esperar encontrar aqui? Para já, informação sobre os eventos, como o __[EBU][ebu]__ e grupos locais; no futuro, recursos do GBU organizados, artigos, atividades para estudantes e para graduados.
 
-A par disso, estamos a atualizar a imagem e identidade do GBU com um grupo de estudantes e graduados de comunicação e _design_, com quem estamos a trabalhar mais de perto desde o início do ano. A identidade proposta já foi aprovada e será implementada ao longo do próximo ano. Entretanto, este é o novo cantinho do GBU na Internet.
+Se estiveste no Dia da Família ou leste o GBUletim, sabes que estamos a atualizar a imagem e identidade do GBU com um grupo de estudantes e graduados de comunicação e _design_, com quem estamos a trabalhar mais de perto desde o início do ano. A identidade proposta já foi aprovada e será implementada ao longo do próximo ano. Entretanto, este é o novo cantinho do GBU na Internet.
 
 [ebu]:/project/ebu-2018/
 [policy]:/page/politica-privacidade/
