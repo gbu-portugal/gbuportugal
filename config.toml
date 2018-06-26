@@ -303,9 +303,19 @@ enableGitInfo = false
   weight = 3
 
 [[Languages.pt.menu.main]]
+  name = "Grupos locais"
+  url = "page/grupos-locais/"
+  weight = 4
+
+[[Languages.pt.menu.main]]
+  name = "Contacto"
+  url = "#contact"
+  weight = 5
+
+[[Languages.pt.menu.main]]
   name = "O GBU"
   url = "page/sobre-o-gbu/"
-  weight = 4
+  weight = 6
   identifier = "sobre"
 
         [[Languages.pt.menu.main]]
@@ -315,26 +325,22 @@ enableGitInfo = false
           parent = "sobre"
 
         [[Languages.pt.menu.main]]
+          name = "Bases de fé"
+          url = "page/bases-de-fe/"
+          weight = 2
+          parent = "sobre"
+
+        [[Languages.pt.menu.main]]
           name = "Missão e Visão"
           url = "page/missao-e-visao/"
-          weight = 2
+          weight = 3
           parent = "sobre"
 
         [[Languages.pt.menu.main]]
           name = "Política de Privacidade"
           url = "page/politica-privacidade/"
-          weight = 3
+          weight = 4
           parent = "sobre"
-
-[[Languages.pt.menu.main]]
-  name = "Grupos locais"
-  url = "page/grupos-locais/"
-  weight = 5
-
-[[Languages.pt.menu.main]]
-  name = "Contacto"
-  url = "#contact"
-  weight = 6
 
 [[Languages.pt.menu.main]]
   name = "DOAR"
