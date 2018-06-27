@@ -5,7 +5,7 @@ draft = false
 slug = "bases-de-fe"
 +++
 
-o GBU está assente nas verdades centrais do Cristianismo reveladas no texto bíblico, incluindo:
+O GBU está assente nas verdades centrais do Cristianismo reveladas no texto bíblico, incluindo:
  
 1. A existência de um Deus em três pessoas: Pai, Filho e Espírito Santo.
 
