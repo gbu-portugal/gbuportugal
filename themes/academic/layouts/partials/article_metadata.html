@@ -2,6 +2,7 @@
 {{ $ := .content }}
 <div class="article-metadata">
 
+  {{ if isset $.Params "post" }}
   <span class="article-date">
     {{ if ne $.Params.Lastmod $.Params.Date }}
         {{ i18n "last_updated" }}
@@ -10,6 +11,8 @@
       {{ $.Lastmod.Format $.Site.Params.date_format }}
     </time>
   </span>
+  {{ end }}
+  
   <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
     <meta itemprop="name" content="{{ $.Site.Params.name }}">
   </span>
