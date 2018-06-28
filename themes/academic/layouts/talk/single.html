@@ -8,11 +8,13 @@
 
     <div class="pub-title">
       <h1 itemprop="name">{{ .Title }}</h1>
+      {{ if .Params.authors }}
       <span class="pub-authors" itemprop="author">
         {{ with .Params.authors }}
         {{ delimit . ", " }}
         {{ end }}
       </span>
+      {{ end }}
       <span class="pull-right">
         {{ partial "share.html" . }}
       </span>
@@ -29,19 +31,28 @@
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
+	      {{ if .Params.time_start }}
           <div class="col-xs-12 col-sm-3 pub-row-heading">{{ i18n "date" }}</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            {{ $date := .Params.time_start | default .Date }}
-            {{ (time $date).Format $.Site.Params.date_format }}
-            <div class="talk-time">
-              {{ if $.Site.Params.talks.time }}
-                {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
-                {{ with .Params.time_end }}
-                  &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
-                {{ end }}
-              {{ end }}
-            </div>
+            {{ if not .Params.time_end }}
+	            {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+            {{ else }}
+				{{ if ((time .Params.time_start).AddDate 0 0 1).After (time .Params.time_end) }}
+				  {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+  			      {{ (time .Params.time_start).Format ($.Site.Params.time_format | default "3:04 PM") }}
+  			      &mdash;
+  			      {{ (time .Params.time_end).Format ($.Site.Params.time_format | default "3:04 PM") }}
+				{{ else }}
+				  {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+				  {{ (time .Params.time_start).Format ($.Site.Params.time_format | default "3:04 PM") }}
+				  <div class="talk-time">
+				  {{ (time .Params.time_end).Format $.Site.Params.date_format }}
+				  {{ (time .Params.time_end).Format ($.Site.Params.time_format | default "3:04 PM") }}
+  			      </div>
+				{{ end }}
+            {{ end }}
           </div>
+          {{ end }}
         </div>
       </div>
       <div class="col-sm-1"></div>

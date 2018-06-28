@@ -23,14 +23,20 @@
   </h3>
 
   <div class="talk-metadata" itemprop="startDate">
-    {{ $date := .Params.time_start | default .Date }}
-    {{ (time $date).Format $.Site.Params.date_format }}
-    {{ if $.Site.Params.talks.time }}
-      {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
-      {{ with .Params.time_end }}
-        &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
-      {{ end }}
+  {{ if not .Params.time_end }}
+    {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+  {{ else }}
+    {{ if ((time .Params.time_start).AddDate 0 0 1).After (time .Params.time_end) }}
+      {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+      {{ (time .Params.time_start).Format ($.Site.Params.time_format | default "3:04 PM") }}
+      &mdash;
+      {{ (time .Params.time_end).Format ($.Site.Params.time_format | default "3:04 PM") }}
+    {{ else }}
+      {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+      &mdash;
+      {{ (time .Params.time_end).Format $.Site.Params.date_format }}
     {{ end }}
+  {{ end }}
   </div>
 
   <div class="talk-metadata">
@@ -41,6 +47,7 @@
     {{ end }}
   </div>
 
+  {{ if .Params.abstract }}
   <div class="talk-abstract" itemprop="text">
     {{ if .Params.abstract_short }}
     {{ .Params.abstract_short | markdownify }}
@@ -48,6 +55,7 @@
     {{ .Params.abstract | markdownify }}
     {{ end }}
   </div>
+  {{ end }}
 
   <div class="talk-links">
     {{ partial "talk_links" (dict "content" . "is_list" 1) }}
