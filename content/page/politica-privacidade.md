@@ -11,7 +11,7 @@ A informação em baixo explica a nossa política em relação aos teus dados pe
 
 Só te enviamos newsletters e outro correio se nos pedires para o fazermos, e podes alterar ou anular a tua subscrição a qualquer momento seguindo a hiperligação no fundo da newsletter ou entrando em contacto connosco.
 
-Se tiveres alguma pergunta relativa a esta política, entra em contacto com a Cecília Oliveira, a nossa assessora administrativa, através do email gbu@gbu.pt. Também podes escrever-nos para Rua Raul Mesnier du Ponsard 7 D, 1750-148 Lisboa - Portugal.
+Se tiveres alguma pergunta relativa a esta política, entra em contacto com a Cecília Oliveira, a nossa assessora administrativa, através do email gbu [at] gbu.pt. Também podes escrever-nos para Rua Raul Mesnier du Ponsard 7 D, 1750-148 Lisboa - Portugal.
 
 ## Como recolhemos informação sobre ti?
 
@@ -62,7 +62,7 @@ Além disso, qualquer informação pessoal identificável só pode ser acedida p
 ## Como atualizo a minha informação ou mudo as minhas preferências?
 
 Se quiseres atualizar a informação que temos sobre ti, ou achas que qualquer informação que tenhamos sobre ti está incorreta ou incompleta, entra em contacto connosco.
-Podes fazer isso através do email gbu@gbu.pt. Também podes escrever-nos para o Grupo Bíblico Universitário, Rua Raul Mesnier du Ponsard 7 D, 1750-148 Lisboa - Portugal.
+Podes fazer isso através do email gbu [at] gbu.pt. Também podes escrever-nos para o Grupo Bíblico Universitário, Rua Raul Mesnier du Ponsard 7 D, 1750-148 Lisboa - Portugal.
 
 Também podes escolher receber ou não informação nossa. Se não quiseres receber comunicações de marketing direto nossas sobre o trabalho essencial que fazemos, contacta-nos e removeremos o teu nome e informação de contacto das nossas listas.
 
