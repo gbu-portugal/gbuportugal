@@ -9,14 +9,14 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 
 | Grupo           | Quando e onde?                    | Com quem falo?           |
 | ------------------| ------------------------------ |------------------|
-| [Aveiro][Aveiro]            | | [Joel Oliveira][Joel]|
-| [Beja][Beja]   |              |[Joel Oliveira][Joel]|
-|[Braga][braga] ||[Pedro Fortes][fortes] |
+| [Aveiro][Aveiro]            | | [Joe Clarke][Joe]|
+| [Beja][Beja]   |              |[Pedro Fonseca][Pedro]|
+|[Braga][braga] ||[Pedro Fonseca][Pedro] |
 |Bragança ||[Joel Oliveira][Joel]|
 |[Caldas da Rainha][Rainha]||[Daniel Azevedo][daniel]|
 |Castelo Branco ||[Joel Oliveira][Joel]|
 |[Coimbra][Coimbra] ||[Raquel Viegas][raquel]|
-|[Covilhã][Covilha] ||[Catarina Pinto][pinto] |
+|[Covilhã][Covilha] ||[Sara Meleiro][meleiro] |
 |Évora ||[Joel Oliveira][Joel]|
 |Faro ||[Raquel Nascimento][nascimento]|
 |Guarda ||[Joel Oliveira][Joel]|
@@ -25,7 +25,7 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 |[Lisboa][Lisboa] ||[Mafalda Rodrigues][mafalda] |
 |Ponta Delgada ||[Lara Faustino][laura] |
 |[Porto][Porto] ||[Ana Cláudia Oliveira][Ana] |
-|[Santarém][Santarém] ||[Angela Silva][Silva] |
+|[Santarém][Santarém] ||[Joel Oliveira][joel] |
 |[Vila Real][Real] ||[Arsénio Mundo][Mundo] |
 |Viseu ||[Joel Oliveira][Joel]|
 
@@ -44,15 +44,16 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 [Real]:https://www.facebook.com/profile.php?id=205479489864907&ref=br_rs
 
 [joel]:mailto:joeloliveira@gbu.pt
+[pedro]:mailto:pedrofonseca@gbu.pt
+[joe]:mailto:joeclarke@gbu.pt
 [fortes]:mailto:pvfortes@gmail.com
 [daniel]:mailto:dansilaze@gmail.com
 [raquel]:mailto:raquelanaviegas@hotmail.com
-[pinto]:mailto:pinto.catarinasofia@gmail.com
+[meleiro]:mailto:sara.c.g.m@hotmail.com
 [nascimento]:mailto:santos.raquelnascimento@gmail.com
 [abi]:mailto:abimi92@gmail.com
 [tiago]:mailto:tiagoda23@gmail.com
 [Mafalda]:mailto:mafaldarodrigues14@gmail.com 
 [laura]:mailto:lara.faustino.98@gmail.com
 [Ana]:mailto:a.claudia.oliveira@hotmail.com
-[Silva]:mailto:angelasilvaebirdll@gmail.com
 [Mundo]:mailto:arseniobermundo@outlook.com
