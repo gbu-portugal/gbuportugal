@@ -21,7 +21,7 @@ weight = 1
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "project/ebu-2018/"
-  label = '<i class="fa "></i>Early bird até 31 de julho'
+  label = '<i class="fa "></i>Saber mais'
 +++
 
 13 — 16 de setembro de 2018
