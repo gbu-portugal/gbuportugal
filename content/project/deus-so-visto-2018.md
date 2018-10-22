@@ -29,13 +29,13 @@ caption = "Deus Só Visto no GBU Porto em 2017"
 
 Pelo terceiro ano consecutivo, o _Deus? Só Visto!_ regressa com um ciclo de eventos nas três maiores universidades do país, desta vez para refletir sobre {{< hl >}} o cristianismo e a liberdade de expressão.{{< /hl >}}
 
-No Porto, Lisboa e Coimbra, teremos {{< hl >}}um debate entre convidados cristãos e ateus{{< /hl >}} que irão apresentar as suas perspetivas sobre a liberdade de expressão.
+Em [Coimbra][coimbra], [Lisboa][lisboa] e [Porto][porto], teremos {{< hl >}}um debate entre convidados cristãos e ateus{{< /hl >}} que irão apresentar as suas perspetivas sobre a liberdade de expressão.
 
 Teremos também nas três cidades {{< hl >}}uma palestra dada pelo Dr. Os Guinness,{{< /hl >}} um palestrante de renome internacional, autor de mais de 20 obras e conferencista do Oxford Center for Contemporary Apologetics.
 
 O objetivo é provocar entre os universitários uma reflexão sobre a fé cristã e a liberdade de expressão, ambos temas fundamentais para a cultura ocidental, particulamente nos tempos de {{< hl >}}grande tensão política e religiosa que estamos a viver.{{< /hl >}} A liberdade de expressão está na ordem do dia, e a religião é muitas vezes vista como uma ameaça. Será que a fé cristã o é?
 
-Em baixo apresentamos o calendário para as três cidades.
+Em baixo apresentamos o calendário para [Coimbra][coimbra], [Lisboa][lisboa] e [Porto][porto].
 
 # __Coimbra__
 
@@ -125,3 +125,6 @@ _Palestra em inglês, com interpretação_
 [c15maps]: https://goo.gl/maps/TfayPn5kGJ52)
 [mapa-lisboa]: https://goo.gl/maps/mWYUvdv8LS72
 [mapa-porto]: https://goo.gl/maps/AjppEhJWCTF2
+[porto]: #porto
+[lisboa]: #lisboa
+[coimbra]: #coimbra
