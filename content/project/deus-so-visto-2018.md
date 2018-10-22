@@ -52,7 +52,7 @@ _Palestra em inglês, sem interpretação_
 _Debate_
 
 - __Quando:__ 13 de novembro, 20h30
-- __Onde:__ Anfiteatro do Departamento de Química (C7.2) ([Google Maps][c13maps]
+- __Onde:__ Anfiteatro do Departamento de Química (C7.2) ([Google Maps][c13maps])
 - __Quem:__ __Carlos Esperança__ (Presidente da Associação Ateísta Portuguesa, blogger e autor) e __Joel Oliveira__ (Mestre em Psicologia e Secretário-Geral GBU Portugal)
 
 ### A hora da verdade: Ser livre num mundo de mentiras, modas e manipulação
