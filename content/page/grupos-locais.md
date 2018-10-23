@@ -5,30 +5,73 @@ draft = false
 slug = "grupos-locais"
 +++
 
-Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para participares. (Os horários novos serão publicados em setembro.)
+No terreno, o GBU está espalhado pelo país em grupos organizados de estudantes chamados __grupos locais__, alguns deles com o apoio de um assessor (e.g., o grupo local de Lisboa).
 
-| Grupo           | Quando e onde?                    | Com quem falo?           |
-| ------------------| ------------------------------ |------------------|
-| [Aveiro][Aveiro]            | | [Joe Clarke][Joe]|
-| [Beja][Beja]   |              |[Pedro Fonseca][Pedro]|
-|[Braga][braga] ||[Pedro Fonseca][Pedro] |
-|Bragança ||[Joel Oliveira][Joel]|
-|[Caldas da Rainha][Rainha]||[Daniel Azevedo][daniel]|
-|Castelo Branco ||[Joel Oliveira][Joel]|
-|[Coimbra][Coimbra] ||[Raquel Viegas][raquel]|
-|[Covilhã][Covilha] ||[Sara Meleiro][meleiro] |
-|Évora ||[Joel Oliveira][Joel]|
-|Faro ||[Raquel Nascimento][nascimento]|
-|Guarda ||[Joel Oliveira][Joel]|
-|[Guimarães][Guimaraes] ||[Abigail Castro][abi] |
-|[Leiria][Leiria] ||[Tiago Dores Almeida][tiago] |
-|[Lisboa][Lisboa] ||[Mafalda Rodrigues][mafalda] |
-|Ponta Delgada ||[Lara Faustino][laura] |
-|[Porto][Porto] ||[Ana Cláudia Oliveira][Ana] |
-|[Santarém][Santarém] ||[Joel Oliveira][joel] |
-|[Vila Real][Real] ||[Arsénio Mundo][Mundo] |
-|Viseu ||[Joel Oliveira][Joel]|
+Os grupos locais organizam-se em __núcleos__: grupos de discussão que estabelecem a ligação entre Bíblia e vida em todas as áreas, particularmente os estudos e a vida académica.
 
+Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para participares.
+
+### [Coimbra][coimbra]
+
+|Onde? |Quando? 
+|--- |--- |
+|Polo I (FDUC + FLUC), Justiça e paz |4ª-feira, 13h00 
+|Polo II, Bar do departamento DEEC |6.ª-feira - 15h00 |
+|Polo III, FEUC + Enfermagem + Polo III, Átrio da Residência de Enfermagem |2.ª e 6.ª-feira, 18h15
+
+|Com quem falo?|
+|--- |
+|Assessor de Coimbra: [Joe Clarke][Joe]
+|Líder de grupo local: [Dalila Seabra][dalila]
+
+### [Lisboa][Lisboa]
+
+|Onde? |Quando? 
+|--- |--- |
+|FDUL|2.ª-feira, 18h00
+|Polo da Ajuda|alterna entre 2.ª-feira, 12h45 e 5.ª-feira, 16h20
+|ISCTE|5.ª-feira, 13h00	
+|ISEG| 4.ª-feira, 16h30
+|FCUL, Bar do C5|2.ª-feira, 13h00
+|FLUL|3.ª-feira, 13h00
+|ISEL|2.ª-feira, 18h30
+|ESCS|2.ª-feira, 15h30
+|IST| 3.ª-feira, 18h30
+|FCT| 4.ª-feira, 14h
+|ISEL|2.ª-feira, 18h30
+|ESTeSL|2.ª-feira, 15h00
+
+|Com quem falo?|
+|--- |
+|Assessor de Lisboa: [Ana Ferreira][anaferreira]
+|Líder de grupo local: [Mafalda Rodrigues][mafalda]|
+
+### [Porto][Porto]
+
+|Onde? |Quando? 
+|--- |--- |
+|ESAD |4.ª-feira, 13h00 
+|Pólo Universitário, e-learning café |4.ª-feira, 11h30
+|ISCAP |4.ª-feira, 18h30
+
+|Com quem falo?|
+|--- |
+|Assessor do Porto: [Pedro Fonseca][Pedro]
+|Líder de grupo local: [Ana Cláudia Oliveira][Ana]
+
+# Grupos locais com um núcleo
+
+|Grupo local |Onde? |Quando? |Com quem falo? |Assessor |
+|--- |--- |--- |--- |---|
+|[Aveiro][Aveiro]  |Cantinas das catacumbas | 4.ª-feira, 18h00|[Diana Brás][diana] |[Joe Clarke][Joe]|
+|[Braga][Braga]|UMinho, Biblioteca central |4.ª-feira, 16h00 |[Artur Andrishak][artur] |[Pedro Fonseca][Pedro] |
+|[Covilhã][Covilha]|Biblioteca Central da UBI|4.ª-feira, 20h30 (quinzenalmente)|[Sara Meleiro][meleiro]|[João Paulo Cordeiro][cordeiro]|
+|Faro|ESEC, sala 55 |6.ª-feira, 18h00|[Miriam Cunha][cunha]|[Joel Oliveira][Joel]
+|[Guimarães][Guimaraes] |Residência |Sábado, 20h (quinzenalmente) |[Abigail Castro][abi]|[Joel Oliveira][Joel]|
+|[Leiria][Leiria]|ESECS|5.ª-feira, 18h30|[Joel Oliveira][Joel]|[Joel Oliveira][Joel]|
+|[Santarém][Santarém]|Residência Andaluz ou Bar da Faculdade|4.ª-feira, 13h30|[Angela Silva][angela]|[Joel Oliveira][Joel]|
+|Setúbal|IPS|4.ª-feira, 17h30|Jonas Nunes|[Ana Ferreira][anaferreira]
+|[Vila Real][Real] |Biblioteca Central | 4.ª-feira, 13h30|[Arsénio Mundo][Mundo]|[Joel Oliveira][Joel]|
 
 [Aveiro]:https://www.facebook.com/profile.php?id=199509560226732&ref=br_rs
 [Beja]:https://www.facebook.com/gbu.beja?ref=br_rs
@@ -46,6 +89,7 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 [joel]:mailto:joeloliveira@gbu.pt
 [pedro]:mailto:pedrofonseca@gbu.pt
 [joe]:mailto:joeclarke@gbu.pt
+[anaferreira]:mailto:anaferreira@gbu.pt
 [fortes]:mailto:pvfortes@gmail.com
 [daniel]:mailto:dansilaze@gmail.com
 [raquel]:mailto:raquelanaviegas@hotmail.com
@@ -57,3 +101,11 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 [laura]:mailto:lara.faustino.98@gmail.com
 [Ana]:mailto:a.claudia.oliveira@hotmail.com
 [Mundo]:mailto:arseniobermundo@outlook.com
+[artur]:mailto:arturandrishak735@gmail.com
+[dalila]:mailto:dalilaigseabra@gmail.com
+[meleiro]:mailto:sara.c.g.m@hotmail.com
+[cordeiro]:mailto:jpaulo@di.ubi.pt
+[angela]:mailto:santarem@gbu.pt
+[cunha]:mailto:miriamfragcunha@gmail.com
+[diana]:mailto:dianafbras@gmail.com
+[nunes]:mailto:
