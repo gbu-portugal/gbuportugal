@@ -9,7 +9,33 @@ No terreno, o GBU está espalhado pelo país em grupos organizados de estudantes
 
 Os grupos locais organizam-se em __núcleos__: grupos de discussão que estabelecem a ligação entre Bíblia e vida em todas as áreas, particularmente os estudos e a vida académica.
 
-Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para participares.
+Procura núcleos na tua cidade e vê com quem falar para participares.
+
+### [Braga][Braga]
+
+|Onde? |Quando?
+|--- |--- |
+Universidade Católica|4.ª-feira, 10h30
+UMinho, biblioteca central|4.ª-feira, 16h00
+
+|Com quem falo?|
+|--- |
+|Assessor do Porto: [Pedro Fonseca][Pedro]
+|Líder de grupo local: [Artur Andrishak][artur]
+
+### [Porto][Porto]
+
+|Onde? |Quando? 
+|--- |--- |
+Bar da FLUP|5.ª-feira, 17h30
+FEUP|horário a definir
+ISCAP|horário a definir
+Polo Universitário|horário a definir
+
+|Com quem falo?|
+|--- |
+|Assessor do Porto: [Pedro Fonseca][Pedro]
+|Líder de grupo local: [Ana Cláudia Oliveira][Ana]
 
 ### [Coimbra][coimbra]
 
@@ -37,7 +63,7 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 |ISEL|2.ª-feira, 18h30
 |ESCS|2.ª-feira, 15h30
 |IST| 3.ª-feira, 18h30
-|FCT| 4.ª-feira, 14h
+|FCT| 4.ª-feira, 14h00
 |ISEL|2.ª-feira, 18h30
 |ESTeSL|2.ª-feira, 15h00
 
@@ -46,25 +72,11 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 |Assessor de Lisboa: [Ana Ferreira][anaferreira]
 |Líder de grupo local: [Mafalda Rodrigues][mafalda]|
 
-### [Porto][Porto]
-
-|Onde? |Quando? 
-|--- |--- |
-|ESAD |4.ª-feira, 13h00 
-|Pólo Universitário, e-learning café |4.ª-feira, 11h30
-|ISCAP |4.ª-feira, 18h30
-
-|Com quem falo?|
-|--- |
-|Assessor do Porto: [Pedro Fonseca][Pedro]
-|Líder de grupo local: [Ana Cláudia Oliveira][Ana]
-
 # Grupos locais com um núcleo
 
 |Grupo local |Onde? |Quando? |Com quem falo? |Assessor |
 |--- |--- |--- |--- |---|
 |[Aveiro][Aveiro]  |Cantinas das catacumbas | 4.ª-feira, 18h00|[Diana Brás][diana] |[Joe Clarke][Joe]|
-|[Braga][Braga]|UMinho, Biblioteca central |4.ª-feira, 16h00 |[Artur Andrishak][artur] |[Pedro Fonseca][Pedro] |
 |[Covilhã][Covilha]|Biblioteca Central da UBI|4.ª-feira, 20h30 (quinzenalmente)|[Sara Meleiro][meleiro]|[João Paulo Cordeiro][cordeiro]|
 |Faro|ESEC, sala 55 |6.ª-feira, 18h00|[Miriam Cunha][cunha]|[Joel Oliveira][Joel]
 |[Guimarães][Guimaraes] |Residência |Sábado, 20h (quinzenalmente) |[Abigail Castro][abi]|[Joel Oliveira][Joel]|
@@ -108,4 +120,3 @@ Aqui podes ver se há algum núcleo perto de ti e saber com quem falar para part
 [angela]:mailto:santarem@gbu.pt
 [cunha]:mailto:miriamfragcunha@gmail.com
 [diana]:mailto:dianafbras@gmail.com
-[nunes]:mailto:
