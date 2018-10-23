@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Eventos"
-subtitle = "O GBU irl."
+subtitle = "O GBU em carne e osso."
 
 # Order that this section will appear in.
 weight = 50
