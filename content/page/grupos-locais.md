@@ -41,9 +41,9 @@ Polo Universitário|horário a definir
 
 |Onde? |Quando? 
 |--- |--- |
-|Polo I (FDUC + FLUC), Justiça e paz |4ª-feira, 13h00 
-|Polo II, Bar do departamento DEEC |6.ª-feira - 15h00 |
-|Polo III, FEUC + Enfermagem + Polo III, Átrio da Residência de Enfermagem |2.ª e 6.ª-feira, 18h15
+|Polo I, Departamento de Física |3ª-feira, 18h00 
+|Polo II, Bar do departamento DEEC |3.ª-feira, 14h30 |
+|Polo III, FEUC + Enfermagem + Polo III, Átrio da Residência de Enfermagem |2.ª-feira, 19h
 
 |Com quem falo?|
 |--- |
@@ -54,18 +54,18 @@ Polo Universitário|horário a definir
 
 |Onde? |Quando? 
 |--- |--- |
+|ESCS|2.ª-feira, 15h30
+|ESTeSL|2.ª-feira, 15h00
+|FCT| 4.ª-feira, 14h00
+|FCUL, Bar do C5|2.ª-feira, 13h00
 |FDUL|2.ª-feira, 18h00
-|Polo da Ajuda|alterna entre 2.ª-feira, 12h45 e 5.ª-feira, 16h20
+|FLUL|3.ª-feira, 13h00
+|ISCAL|3.ª-feira, 11h00
 |ISCTE|5.ª-feira, 13h00	
 |ISEG| 4.ª-feira, 16h30
-|FCUL, Bar do C5|2.ª-feira, 13h00
-|FLUL|3.ª-feira, 13h00
 |ISEL|2.ª-feira, 18h30
-|ESCS|2.ª-feira, 15h30
 |IST| 3.ª-feira, 18h30
-|FCT| 4.ª-feira, 14h00
-|ISEL|2.ª-feira, 18h30
-|ESTeSL|2.ª-feira, 15h00
+|Polo da Ajuda|alterna entre 2.ª-feira, 12h45 e 5.ª-feira, 16h20
 
 |Com quem falo?|
 |--- |
@@ -76,7 +76,7 @@ Polo Universitário|horário a definir
 
 |Grupo local |Onde? |Quando? |Com quem falo? |Assessor |
 |--- |--- |--- |--- |---|
-|[Aveiro][Aveiro]  |Cantinas das catacumbas | 4.ª-feira, 18h00|[Diana Brás][diana] |[Joe Clarke][Joe]|
+|[Aveiro][Aveiro]  |Complexo Pedagógico | 4.ª-feira, 15h00|[Diana Brás][diana] |[Joe Clarke][Joe]|
 |[Covilhã][Covilha]|Biblioteca Central da UBI|4.ª-feira, 20h30 (quinzenalmente)|[Sara Meleiro][meleiro]|[João Paulo Cordeiro][cordeiro]|
 |Faro|ESEC, sala 55 |6.ª-feira, 18h00|[Miriam Cunha][cunha]|[Joel Oliveira][Joel]
 |[Guimarães][Guimaraes] |Residência |Sábado, 20h (quinzenalmente) |[Abigail Castro][abi]|[Joel Oliveira][Joel]|
