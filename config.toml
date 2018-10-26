@@ -317,19 +317,24 @@ enableGitInfo = false
           hrefTargetBlank = true          
 
 [[Languages.pt.menu.main]]
+  name = "Recursos"
+  url = "page/recursos/"
+  weight = 4
+
+[[Languages.pt.menu.main]]
   name = "Grupos locais"
   url = "page/grupos-locais/"
-  weight = 4
+  weight = 5
 
 [[Languages.pt.menu.main]]
   name = "Contacto"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 [[Languages.pt.menu.main]]
   name = "O GBU"
   url = "page/sobre-o-gbu/"
-  weight = 6
+  weight = 7
   identifier = "sobre"
 
         [[Languages.pt.menu.main]]
@@ -359,5 +364,5 @@ enableGitInfo = false
 [[Languages.pt.menu.main]]
   name = "DOAR"
   url = "http://gbu.force.com/PaginaInicial"
-  weight = 7
+  weight = 8
   hrefTargetBlank = true
