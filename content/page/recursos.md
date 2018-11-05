@@ -21,4 +21,10 @@ __[Deslumbra-te com Deus:](/files/EBI-deslumbra-te-com-deus.pdf)__ Três cartas 
 
 [![Entendes o que lês?](/img/recursos/EBI-entendes-o-que-les.png "Entendes o que lês?")](/files/EBI-entendes-o-que-les.pdf)
 
-__[Entendes o que lês?:](/files/EBI-entendes-o-que-les.pdf)__ Oito estudos que oferecem uma visão panorâmica da Bíblia.
+__[Entendes o que lês?](/files/EBI-entendes-o-que-les.pdf)__ Oito estudos que oferecem uma visão panorâmica da Bíblia.
+
+![Manual Descobre](/img/recursos/Descobre-manual.jpg "Descobre: Vê por ti mesmo")
+
+__Descobre — vê por ti mesmo:__ Esta série de seis estudos foi criada especificamente para pôr cristãos e não-cristãos em conversa sobre o evangelho de João, uma das biografias de Jesus. Podes encontrar o _Descobre_ à venda em livrarias, [falando com o assessor da tua cidade](/page/grupos-locais) ou [contactando diretamente o GBU](https://gbu.netlify.com/#contact).
+
+Já tens o teu _Descobre_? Descarrega gratuitamente [o manual para líderes](/files/Recursos-Descobre-Manual-Lider.pdf).
