@@ -6,7 +6,7 @@ date = 2018-10-22T11:05:28+01:00
 title = "DEUS SÓ VISTO 2018-19: LIvERDADE DE EXPRESSÃO"
 
 # Project summary to display on homepage.
-summary = "14 – 21 de novembro de 2018"
+summary = "14 – 21 de novembro de 2018 (Evento Encerrado)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "eventos/2018-ebulicao-capa.png"
