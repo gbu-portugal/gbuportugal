@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "LIvERDADE DE EXPRESSÃO"
+title = "Grupo Bíblico Universitário"
 
 # Order that this section will appear in.
 weight = 1
@@ -13,18 +13,18 @@ weight = 1
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#ffffff"  # An HTML color value.
-  overlay_img = "eventos/2018-ebulicao-capa.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "eventos/2017-ebulicao-porto.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "project/deus-so-visto-2018/"
+  url = ""
   label = '<i class="fa "></i>Sabe o quê, quando e onde'
 +++
 
-A nova edição do Deus Só Visto
+Uma fé que pensa, uma razão que crê
 
 <script type="text/javascript">
   (function defer() {
