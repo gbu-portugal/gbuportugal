@@ -362,7 +362,7 @@ enableGitInfo = false
           parent = "sobre"
 
 [[Languages.pt.menu.main]]
-  name = "DOAR"
-  url = "http://gbu.force.com/PaginaInicial"
+  name = "CONTRIBUIR"
+  url = "page/donativos"
   weight = 8
   hrefTargetBlank = true
