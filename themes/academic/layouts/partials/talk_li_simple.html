@@ -1,13 +1,24 @@
 <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
   <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
   <span itemprop="name"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+  {{ if .Params.time_start }}
   <div itemprop="startDate">
-    {{ $date := .Params.time_start | default .Date }}
-    {{ (time $date).Format $.Site.Params.date_format }}
-    {{ if $.Site.Params.talks.time }}
-      {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
+  {{ if not .Params.time_end }}
+    {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+  {{ else }}
+    {{ if ((time .Params.time_start).AddDate 0 0 1).After (time .Params.time_end) }}
+      {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+      {{ (time .Params.time_start).Format ($.Site.Params.time_format | default "3:04 PM") }}
+      &mdash;
+      {{ (time .Params.time_end).Format ($.Site.Params.time_format | default "3:04 PM") }}
+    {{ else }}
+      {{ (time .Params.time_start).Format $.Site.Params.date_format }}
+      &mdash;
+      {{ (time .Params.time_end).Format $.Site.Params.date_format }}
     {{ end }}
+  {{ end }}
   </div>
+  {{ end }}
   <div class="talk-metadata">
     {{ if .Params.event_short }}
         {{ .Params.event_short | markdownify }}

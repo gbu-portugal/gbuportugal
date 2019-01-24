@@ -5,6 +5,8 @@ date = 2016-04-20T00:00:00
 lastmod = 2018-06-13T00:00:00
 draft = false
 
+post = true
+
 tags = []
 summary = "Até aqui, quando queríamos dirigir as pessoas para um evento do GBU, apoiávamo-nos sobretudo nas redes sociais. Quando não o fazíamos..."
 slug = "site-provisorio-gbu"
